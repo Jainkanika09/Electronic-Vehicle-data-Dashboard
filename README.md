@@ -61,11 +61,6 @@ The **Geographic Analysis** section illustrates a strong, continuous upward tren
 
 The dashboard is organized into five main interactive tabs.
 
-### 1. About Dashboard / Overview Page
-*The landing page describing the project's objective and problem statement.*
-
-<!--https://github.com/Jainkanika09/Electronic-Vehicle-data-Dashboard/blob/main/About%20Dashboard.png   -->
-
 
 
 ### 2. Executive Overview
@@ -79,6 +74,7 @@ The dashboard is organized into five main interactive tabs.
 *Detailed view of the State-wise adoption patterns and a waterfall chart visualizing the market share of all major manufacturers.*
 
 <!-- INSERT SCREENSHOT FOR 'Market Composition' HERE -->
+
 
 ### 4. Geographic Analysis
 *Tracks the monthly vehicles sold over time, illustrating the overall market growth and seasonality.*
