@@ -1,0 +1,817 @@
+date,vehicle_category,maker,electric_vehicles_sold
+01-Apr-21,two wheelers,OLA ELECTRIC,0
+01-Apr-22,two wheelers,OKAYA EV,0
+01-May-21,two wheelers,OLA ELECTRIC,0
+01-Jun-21,two wheelers,OLA ELECTRIC,0
+01-Jul-21,two wheelers,OLA ELECTRIC,0
+01-Aug-21,two wheelers,OLA ELECTRIC,0
+01-Sep-21,two wheelers,OLA ELECTRIC,0
+01-Oct-21,two wheelers,OLA ELECTRIC,0
+01-Nov-21,two wheelers,OLA ELECTRIC,0
+01-Apr-21,four wheelers,BYD India,0
+01-Apr-21,four wheelers,PCA Automobiles,0
+01-Apr-21,four wheelers,BMW India,0
+01-Apr-21,four wheelers,Volvo Auto India,0
+01-Apr-21,four wheelers,KIA Motors,0
+01-Apr-22,four wheelers,PCA Automobiles,0
+01-Apr-22,four wheelers,Volvo Auto India,0
+01-Apr-22,four wheelers,KIA Motors,0
+01-May-21,four wheelers,BYD India,0
+01-May-21,four wheelers,PCA Automobiles,0
+01-May-21,four wheelers,BMW India,0
+01-May-21,four wheelers,Mercedes -Benz AG,0
+01-May-21,four wheelers,Volvo Auto India,0
+01-May-21,four wheelers,KIA Motors,0
+01-May-22,four wheelers,PCA Automobiles,0
+01-May-22,four wheelers,Volvo Auto India,0
+01-May-22,four wheelers,KIA Motors,0
+01-Jun-21,four wheelers,BYD India,0
+01-Jun-21,four wheelers,PCA Automobiles,0
+01-Jun-21,four wheelers,BMW India,0
+01-Jun-21,four wheelers,Volvo Auto India,0
+01-Jun-21,four wheelers,KIA Motors,0
+01-Jun-22,four wheelers,PCA Automobiles,0
+01-Jun-22,four wheelers,Volvo Auto India,0
+01-Jun-22,four wheelers,KIA Motors,0
+01-Jul-21,four wheelers,BYD India,0
+01-Jul-21,four wheelers,PCA Automobiles,0
+01-Jul-21,four wheelers,BMW India,0
+01-Jul-21,four wheelers,Volvo Auto India,0
+01-Jul-21,four wheelers,KIA Motors,0
+01-Jul-22,four wheelers,PCA Automobiles,0
+01-Jul-22,four wheelers,Volvo Auto India,0
+01-Jul-22,four wheelers,KIA Motors,0
+01-Aug-21,four wheelers,BYD India,0
+01-Aug-21,four wheelers,PCA Automobiles,0
+01-Aug-21,four wheelers,BMW India,0
+01-Aug-21,four wheelers,Volvo Auto India,0
+01-Aug-21,four wheelers,KIA Motors,0
+01-Aug-22,four wheelers,PCA Automobiles,0
+01-Aug-22,four wheelers,Volvo Auto India,0
+01-Aug-22,four wheelers,KIA Motors,0
+01-Sep-21,four wheelers,BYD India,0
+01-Sep-21,four wheelers,PCA Automobiles,0
+01-Sep-21,four wheelers,BMW India,0
+01-Sep-21,four wheelers,Volvo Auto India,0
+01-Sep-21,four wheelers,KIA Motors,0
+01-Sep-22,four wheelers,PCA Automobiles,0
+01-Sep-22,four wheelers,Volvo Auto India,0
+01-Sep-22,four wheelers,KIA Motors,0
+01-Oct-21,four wheelers,BYD India,0
+01-Oct-21,four wheelers,PCA Automobiles,0
+01-Oct-21,four wheelers,BMW India,0
+01-Oct-21,four wheelers,Volvo Auto India,0
+01-Oct-21,four wheelers,KIA Motors,0
+01-Oct-22,four wheelers,PCA Automobiles,0
+01-Oct-22,four wheelers,Volvo Auto India,0
+01-Nov-21,four wheelers,BYD India,0
+01-Nov-21,four wheelers,PCA Automobiles,0
+01-Nov-21,four wheelers,BMW India,0
+01-Nov-21,four wheelers,Volvo Auto India,0
+01-Nov-21,four wheelers,KIA Motors,0
+01-Nov-22,four wheelers,PCA Automobiles,0
+01-Dec-21,four wheelers,PCA Automobiles,0
+01-Dec-21,four wheelers,BMW India,0
+01-Dec-21,four wheelers,Volvo Auto India,0
+01-Dec-21,four wheelers,KIA Motors,0
+01-Dec-22,four wheelers,PCA Automobiles,0
+01-Jan-22,four wheelers,PCA Automobiles,0
+01-Jan-22,four wheelers,BMW India,0
+01-Jan-22,four wheelers,Volvo Auto India,0
+01-Jan-22,four wheelers,KIA Motors,0
+01-Jan-23,four wheelers,PCA Automobiles,0
+01-Feb-22,four wheelers,PCA Automobiles,0
+01-Feb-22,four wheelers,BMW India,0
+01-Feb-22,four wheelers,Volvo Auto India,0
+01-Feb-22,four wheelers,KIA Motors,0
+01-Feb-23,four wheelers,PCA Automobiles,0
+01-Mar-22,four wheelers,PCA Automobiles,0
+01-Mar-22,four wheelers,KIA Motors,0
+01-Apr-21,four wheelers,Tata Motors,322
+01-Apr-21,four wheelers,MG Motor,118
+01-Apr-21,four wheelers,Mahindra & Mahindra,171
+01-Apr-21,four wheelers,Hyundai Motor,12
+01-Apr-21,four wheelers,Mercedes -Benz AG,3
+01-Apr-22,four wheelers,Tata Motors,1409
+01-Apr-22,four wheelers,MG Motor,177
+01-Apr-22,four wheelers,Mahindra & Mahindra,611
+01-Apr-22,four wheelers,BYD India,15
+01-Apr-22,four wheelers,Hyundai Motor,17
+01-Apr-22,four wheelers,BMW India,12
+01-Apr-22,four wheelers,Mercedes -Benz AG,8
+01-Apr-23,four wheelers,Tata Motors,364
+01-Apr-23,four wheelers,MG Motor,265
+01-Apr-23,four wheelers,Mahindra & Mahindra,4880
+01-Apr-23,four wheelers,BYD India,156
+01-Apr-23,four wheelers,Hyundai Motor,42
+01-Apr-23,four wheelers,PCA Automobiles,181
+01-Apr-23,four wheelers,BMW India,51
+01-Apr-23,four wheelers,Mercedes -Benz AG,8
+01-Apr-23,four wheelers,Volvo Auto India,27
+01-Apr-23,four wheelers,KIA Motors,30
+01-May-21,four wheelers,Tata Motors,137
+01-May-21,four wheelers,MG Motor,39
+01-May-21,four wheelers,Mahindra & Mahindra,78
+01-May-21,four wheelers,Hyundai Motor,3
+01-May-22,four wheelers,Tata Motors,2097
+01-May-22,four wheelers,MG Motor,181
+01-May-22,four wheelers,Mahindra & Mahindra,622
+01-May-22,four wheelers,BYD India,30
+01-May-22,four wheelers,Hyundai Motor,19
+01-May-22,four wheelers,BMW India,6
+01-May-22,four wheelers,Mercedes -Benz AG,4
+01-May-23,four wheelers,Tata Motors,3212
+01-May-23,four wheelers,MG Motor,351
+01-May-23,four wheelers,Mahindra & Mahindra,3457
+01-May-23,four wheelers,BYD India,110
+01-May-23,four wheelers,Hyundai Motor,129
+01-May-23,four wheelers,PCA Automobiles,245
+01-May-23,four wheelers,BMW India,57
+01-May-23,four wheelers,Mercedes -Benz AG,9
+01-May-23,four wheelers,Volvo Auto India,34
+01-May-23,four wheelers,KIA Motors,36
+01-Jun-21,four wheelers,Tata Motors,572
+01-Jun-21,four wheelers,MG Motor,128
+01-Jun-21,four wheelers,Mahindra & Mahindra,106
+01-Jun-21,four wheelers,Hyundai Motor,10
+01-Jun-21,four wheelers,Mercedes -Benz AG,2
+01-Jun-22,four wheelers,Tata Motors,2169
+01-Jun-22,four wheelers,MG Motor,173
+01-Jun-22,four wheelers,Mahindra & Mahindra,787
+01-Jun-22,four wheelers,BYD India,36
+01-Jun-22,four wheelers,Hyundai Motor,39
+01-Jun-22,four wheelers,BMW India,4
+01-Jun-22,four wheelers,Mercedes -Benz AG,2
+01-Jun-23,four wheelers,Tata Motors,3671
+01-Jun-23,four wheelers,MG Motor,877
+01-Jun-23,four wheelers,Mahindra & Mahindra,2574
+01-Jun-23,four wheelers,BYD India,140
+01-Jun-23,four wheelers,Hyundai Motor,121
+01-Jun-23,four wheelers,PCA Automobiles,254
+01-Jun-23,four wheelers,BMW India,76
+01-Jun-23,four wheelers,Mercedes -Benz AG,14
+01-Jun-23,four wheelers,Volvo Auto India,33
+01-Jun-23,four wheelers,KIA Motors,30
+01-Jul-21,four wheelers,Tata Motors,696
+01-Jul-21,four wheelers,MG Motor,232
+01-Jul-21,four wheelers,Mahindra & Mahindra,171
+01-Jul-21,four wheelers,Hyundai Motor,18
+01-Jul-21,four wheelers,Mercedes -Benz AG,1
+01-Jul-22,four wheelers,Tata Motors,2264
+01-Jul-22,four wheelers,MG Motor,194
+01-Jul-22,four wheelers,Mahindra & Mahindra,866
+01-Jul-22,four wheelers,BYD India,32
+01-Jul-22,four wheelers,Hyundai Motor,45
+01-Jul-22,four wheelers,BMW India,4
+01-Jul-22,four wheelers,Mercedes -Benz AG,1
+01-Jul-23,four wheelers,Tata Motors,3823
+01-Jul-23,four wheelers,MG Motor,935
+01-Jul-23,four wheelers,Mahindra & Mahindra,2174
+01-Jul-23,four wheelers,BYD India,89
+01-Jul-23,four wheelers,Hyundai Motor,88
+01-Jul-23,four wheelers,PCA Automobiles,169
+01-Jul-23,four wheelers,BMW India,81
+01-Jul-23,four wheelers,Mercedes -Benz AG,23
+01-Jul-23,four wheelers,Volvo Auto India,26
+01-Jul-23,four wheelers,KIA Motors,22
+01-Aug-21,four wheelers,Tata Motors,584
+01-Aug-21,four wheelers,MG Motor,303
+01-Aug-21,four wheelers,Mahindra & Mahindra,204
+01-Aug-21,four wheelers,Hyundai Motor,10
+01-Aug-21,four wheelers,Mercedes -Benz AG,2
+01-Aug-22,four wheelers,Tata Motors,1931
+01-Aug-22,four wheelers,MG Motor,234
+01-Aug-22,four wheelers,Mahindra & Mahindra,1085
+01-Aug-22,four wheelers,BYD India,33
+01-Aug-22,four wheelers,Hyundai Motor,53
+01-Aug-22,four wheelers,BMW India,19
+01-Aug-22,four wheelers,Mercedes -Benz AG,3
+01-Aug-23,four wheelers,Tata Motors,3388
+01-Aug-23,four wheelers,MG Motor,913
+01-Aug-23,four wheelers,Mahindra & Mahindra,2013
+01-Aug-23,four wheelers,BYD India,80
+01-Aug-23,four wheelers,Hyundai Motor,141
+01-Aug-23,four wheelers,PCA Automobiles,89
+01-Aug-23,four wheelers,BMW India,64
+01-Aug-23,four wheelers,Mercedes -Benz AG,8
+01-Aug-23,four wheelers,Volvo Auto India,36
+01-Aug-23,four wheelers,KIA Motors,21
+01-Sep-21,four wheelers,Tata Motors,772
+01-Sep-21,four wheelers,MG Motor,263
+01-Sep-21,four wheelers,Mahindra & Mahindra,276
+01-Sep-21,four wheelers,Hyundai Motor,6
+01-Sep-21,four wheelers,Mercedes -Benz AG,2
+01-Sep-22,four wheelers,Tata Motors,1997
+01-Sep-22,four wheelers,MG Motor,207
+01-Sep-22,four wheelers,Mahindra & Mahindra,1213
+01-Sep-22,four wheelers,BYD India,48
+01-Sep-22,four wheelers,Hyundai Motor,57
+01-Sep-22,four wheelers,BMW India,21
+01-Sep-22,four wheelers,Mercedes -Benz AG,3
+01-Sep-23,four wheelers,Tata Motors,3126
+01-Sep-23,four wheelers,MG Motor,676
+01-Sep-23,four wheelers,Mahindra & Mahindra,1668
+01-Sep-23,four wheelers,BYD India,141
+01-Sep-23,four wheelers,Hyundai Motor,161
+01-Sep-23,four wheelers,PCA Automobiles,108
+01-Sep-23,four wheelers,BMW India,58
+01-Sep-23,four wheelers,Mercedes -Benz AG,41
+01-Sep-23,four wheelers,Volvo Auto India,42
+01-Sep-23,four wheelers,KIA Motors,26
+01-Oct-21,four wheelers,Tata Motors,803
+01-Oct-21,four wheelers,MG Motor,194
+01-Oct-21,four wheelers,Mahindra & Mahindra,369
+01-Oct-21,four wheelers,Hyundai Motor,8
+01-Oct-21,four wheelers,Mercedes -Benz AG,3
+01-Oct-22,four wheelers,Tata Motors,2395
+01-Oct-22,four wheelers,MG Motor,338
+01-Oct-22,four wheelers,Mahindra & Mahindra,1051
+01-Oct-22,four wheelers,BYD India,27
+01-Oct-22,four wheelers,Hyundai Motor,64
+01-Oct-22,four wheelers,BMW India,4
+01-Oct-22,four wheelers,Mercedes -Benz AG,4
+01-Oct-22,four wheelers,KIA Motors,29
+01-Oct-23,four wheelers,Tata Motors,3911
+01-Oct-23,four wheelers,MG Motor,714
+01-Oct-23,four wheelers,Mahindra & Mahindra,2027
+01-Oct-23,four wheelers,BYD India,109
+01-Oct-23,four wheelers,Hyundai Motor,148
+01-Oct-23,four wheelers,PCA Automobiles,132
+01-Oct-23,four wheelers,BMW India,71
+01-Oct-23,four wheelers,Mercedes -Benz AG,18
+01-Oct-23,four wheelers,Volvo Auto India,41
+01-Oct-23,four wheelers,KIA Motors,39
+01-Nov-21,four wheelers,Tata Motors,1036
+01-Nov-21,four wheelers,MG Motor,118
+01-Nov-21,four wheelers,Mahindra & Mahindra,462
+01-Nov-21,four wheelers,Hyundai Motor,7
+01-Nov-21,four wheelers,Mercedes -Benz AG,2
+01-Nov-22,four wheelers,Tata Motors,2264
+01-Nov-22,four wheelers,MG Motor,464
+01-Nov-22,four wheelers,Mahindra & Mahindra,1067
+01-Nov-22,four wheelers,BYD India,39
+01-Nov-22,four wheelers,Hyundai Motor,59
+01-Nov-22,four wheelers,BMW India,14
+01-Nov-22,four wheelers,Mercedes -Benz AG,4
+01-Nov-22,four wheelers,Volvo Auto India,5
+01-Nov-22,four wheelers,KIA Motors,61
+01-Nov-23,four wheelers,Tata Motors,4432
+01-Nov-23,four wheelers,MG Motor,723
+01-Nov-23,four wheelers,Mahindra & Mahindra,1222
+01-Nov-23,four wheelers,BYD India,106
+01-Nov-23,four wheelers,Hyundai Motor,125
+01-Nov-23,four wheelers,PCA Automobiles,98
+01-Nov-23,four wheelers,BMW India,215
+01-Nov-23,four wheelers,Mercedes -Benz AG,35
+01-Nov-23,four wheelers,Volvo Auto India,57
+01-Nov-23,four wheelers,KIA Motors,29
+01-Dec-21,four wheelers,Tata Motors,1952
+01-Dec-21,four wheelers,MG Motor,99
+01-Dec-21,four wheelers,Mahindra & Mahindra,552
+01-Dec-21,four wheelers,BYD India,1
+01-Dec-21,four wheelers,Hyundai Motor,10
+01-Dec-21,four wheelers,Mercedes -Benz AG,1
+01-Dec-22,four wheelers,Tata Motors,1992
+01-Dec-22,four wheelers,MG Motor,363
+01-Dec-22,four wheelers,Mahindra & Mahindra,1260
+01-Dec-22,four wheelers,BYD India,37
+01-Dec-22,four wheelers,Hyundai Motor,68
+01-Dec-22,four wheelers,BMW India,27
+01-Dec-22,four wheelers,Mercedes -Benz AG,6
+01-Dec-22,four wheelers,Volvo Auto India,16
+01-Dec-22,four wheelers,KIA Motors,65
+01-Dec-23,four wheelers,Tata Motors,4893
+01-Dec-23,four wheelers,MG Motor,753
+01-Dec-23,four wheelers,Mahindra & Mahindra,1015
+01-Dec-23,four wheelers,BYD India,135
+01-Dec-23,four wheelers,Hyundai Motor,97
+01-Dec-23,four wheelers,PCA Automobiles,40
+01-Dec-23,four wheelers,BMW India,137
+01-Dec-23,four wheelers,Mercedes -Benz AG,51
+01-Dec-23,four wheelers,Volvo Auto India,47
+01-Dec-23,four wheelers,KIA Motors,23
+01-Jan-22,four wheelers,Tata Motors,1012
+01-Jan-22,four wheelers,MG Motor,48
+01-Jan-22,four wheelers,Mahindra & Mahindra,474
+01-Jan-22,four wheelers,BYD India,8
+01-Jan-22,four wheelers,Hyundai Motor,6
+01-Jan-22,four wheelers,Mercedes -Benz AG,2
+01-Jan-23,four wheelers,Tata Motors,1812
+01-Jan-23,four wheelers,MG Motor,313
+01-Jan-23,four wheelers,Mahindra & Mahindra,967
+01-Jan-23,four wheelers,BYD India,101
+01-Jan-23,four wheelers,Hyundai Motor,84
+01-Jan-23,four wheelers,BMW India,91
+01-Jan-23,four wheelers,Mercedes -Benz AG,14
+01-Jan-23,four wheelers,Volvo Auto India,21
+01-Jan-23,four wheelers,KIA Motors,35
+01-Jan-24,four wheelers,Tata Motors,5674
+01-Jan-24,four wheelers,MG Motor,908
+01-Jan-24,four wheelers,Mahindra & Mahindra,896
+01-Jan-24,four wheelers,BYD India,123
+01-Jan-24,four wheelers,Hyundai Motor,128
+01-Jan-24,four wheelers,PCA Automobiles,23
+01-Jan-24,four wheelers,BMW India,116
+01-Jan-24,four wheelers,Mercedes -Benz AG,29
+01-Jan-24,four wheelers,Volvo Auto India,42
+01-Jan-24,four wheelers,KIA Motors,29
+01-Feb-22,four wheelers,Tata Motors,1922
+01-Feb-22,four wheelers,MG Motor,30
+01-Feb-22,four wheelers,Mahindra & Mahindra,478
+01-Feb-22,four wheelers,BYD India,10
+01-Feb-22,four wheelers,Hyundai Motor,6
+01-Feb-22,four wheelers,Mercedes -Benz AG,3
+01-Feb-23,four wheelers,Tata Motors,2651
+01-Feb-23,four wheelers,MG Motor,261
+01-Feb-23,four wheelers,Mahindra & Mahindra,1531
+01-Feb-23,four wheelers,BYD India,174
+01-Feb-23,four wheelers,Hyundai Motor,36
+01-Feb-23,four wheelers,BMW India,43
+01-Feb-23,four wheelers,Mercedes -Benz AG,12
+01-Feb-23,four wheelers,Volvo Auto India,26
+01-Feb-23,four wheelers,KIA Motors,22
+01-Feb-24,four wheelers,Tata Motors,5081
+01-Feb-24,four wheelers,MG Motor,829
+01-Feb-24,four wheelers,Mahindra & Mahindra,712
+01-Feb-24,four wheelers,BYD India,135
+01-Feb-24,four wheelers,Hyundai Motor,94
+01-Feb-24,four wheelers,PCA Automobiles,64
+01-Feb-24,four wheelers,BMW India,97
+01-Feb-24,four wheelers,Mercedes -Benz AG,24
+01-Feb-24,four wheelers,Volvo Auto India,35
+01-Feb-24,four wheelers,KIA Motors,17
+01-Mar-22,four wheelers,Tata Motors,2900
+01-Mar-22,four wheelers,MG Motor,75
+01-Mar-22,four wheelers,Mahindra & Mahindra,701
+01-Mar-22,four wheelers,BYD India,14
+01-Mar-22,four wheelers,Hyundai Motor,14
+01-Mar-22,four wheelers,BMW India,7
+01-Mar-22,four wheelers,Mercedes -Benz AG,5
+01-Mar-22,four wheelers,Volvo Auto India,4
+01-Mar-23,four wheelers,Tata Motors,5065
+01-Mar-23,four wheelers,MG Motor,372
+01-Mar-23,four wheelers,Mahindra & Mahindra,2745
+01-Mar-23,four wheelers,BYD India,348
+01-Mar-23,four wheelers,Hyundai Motor,35
+01-Mar-23,four wheelers,PCA Automobiles,151
+01-Mar-23,four wheelers,BMW India,40
+01-Mar-23,four wheelers,Mercedes -Benz AG,10
+01-Mar-23,four wheelers,Volvo Auto India,37
+01-Mar-23,four wheelers,KIA Motors,17
+01-Mar-24,four wheelers,Tata Motors,6606
+01-Mar-24,four wheelers,MG Motor,885
+01-Mar-24,four wheelers,Mahindra & Mahindra,708
+01-Mar-24,four wheelers,BYD India,142
+01-Mar-24,four wheelers,Hyundai Motor,116
+01-Mar-24,four wheelers,PCA Automobiles,130
+01-Mar-24,four wheelers,BMW India,55
+01-Mar-24,four wheelers,Mercedes -Benz AG,31
+01-Mar-24,four wheelers,Volvo Auto India,39
+01-Mar-24,four wheelers,KIA Motors,26
+01-Apr-21,two wheelers,HERO ELECTRIC,759
+01-Apr-21,two wheelers,OKINAWA,1251
+01-Apr-21,two wheelers,AMPERE,751
+01-Apr-21,two wheelers,ATHER,903
+01-Apr-21,two wheelers,PURE EV,581
+01-Apr-21,two wheelers,TVS,302
+01-Apr-21,two wheelers,REVOLT,138
+01-Apr-21,two wheelers,BAJAJ,48
+01-Apr-21,two wheelers,BEING,171
+01-Apr-21,two wheelers,JITENDRA,36
+01-Apr-21,two wheelers,OTHERS,749
+01-Apr-22,two wheelers,OLA ELECTRIC,13601
+01-Apr-22,two wheelers,OKINAWA,11341
+01-Apr-22,two wheelers,HERO ELECTRIC,6803
+01-Apr-22,two wheelers,AMPERE,6864
+01-Apr-22,two wheelers,TVS,1498
+01-Apr-22,two wheelers,ATHER,2451
+01-Apr-22,two wheelers,BAJAJ,1223
+01-Apr-22,two wheelers,REVOLT,1241
+01-Apr-22,two wheelers,PURE EV,1756
+01-Apr-22,two wheelers,BEING,874
+01-Apr-22,two wheelers,JITENDRA,940
+01-Apr-22,two wheelers,OTHERS,4683
+01-Apr-23,two wheelers,OLA ELECTRIC,22548
+01-Apr-23,two wheelers,TVS,8654
+01-Apr-23,two wheelers,ATHER,7707
+01-Apr-23,two wheelers,BAJAJ,4043
+01-Apr-23,two wheelers,AMPERE,8767
+01-Apr-23,two wheelers,OKINAWA,3179
+01-Apr-23,two wheelers,HERO ELECTRIC,3293
+01-Apr-23,two wheelers,OKAYA EV,1544
+01-Apr-23,two wheelers,BGAUSS,762
+01-Apr-23,two wheelers,BATTRE ELECTRIC,644
+01-Apr-23,two wheelers,KINETIC GREEN,838
+01-Apr-23,two wheelers,REVOLT,520
+01-Apr-23,two wheelers,OTHERS,4315
+01-May-21,two wheelers,HERO ELECTRIC,170
+01-May-21,two wheelers,OKINAWA,245
+01-May-21,two wheelers,AMPERE,147
+01-May-21,two wheelers,ATHER,160
+01-May-21,two wheelers,PURE EV,122
+01-May-21,two wheelers,TVS,9
+01-May-21,two wheelers,REVOLT,42
+01-May-21,two wheelers,BAJAJ,20
+01-May-21,two wheelers,BEING,54
+01-May-21,two wheelers,JITENDRA,13
+01-May-21,two wheelers,OTHERS,260
+01-May-22,two wheelers,OLA ELECTRIC,9266
+01-May-22,two wheelers,OKINAWA,10340
+01-May-22,two wheelers,HERO ELECTRIC,2970
+01-May-22,two wheelers,AMPERE,6176
+01-May-22,two wheelers,TVS,478
+01-May-22,two wheelers,ATHER,3337
+01-May-22,two wheelers,BAJAJ,1812
+01-May-22,two wheelers,OKAYA EV,19
+01-May-22,two wheelers,REVOLT,1589
+01-May-22,two wheelers,PURE EV,1464
+01-May-22,two wheelers,BEING,862
+01-May-22,two wheelers,JITENDRA,646
+01-May-22,two wheelers,OTHERS,3455
+01-May-23,two wheelers,OLA ELECTRIC,29447
+01-May-23,two wheelers,TVS,20188
+01-May-23,two wheelers,ATHER,15243
+01-May-23,two wheelers,BAJAJ,9976
+01-May-23,two wheelers,AMPERE,10659
+01-May-23,two wheelers,OKINAWA,2873
+01-May-23,two wheelers,HERO ELECTRIC,2085
+01-May-23,two wheelers,OKAYA EV,3831
+01-May-23,two wheelers,BGAUSS,1792
+01-May-23,two wheelers,BATTRE ELECTRIC,1185
+01-May-23,two wheelers,KINETIC GREEN,886
+01-May-23,two wheelers,REVOLT,565
+01-May-23,two wheelers,OTHERS,6627
+01-Jun-21,two wheelers,HERO ELECTRIC,1355
+01-Jun-21,two wheelers,OKINAWA,984
+01-Jun-21,two wheelers,AMPERE,299
+01-Jun-21,two wheelers,ATHER,320
+01-Jun-21,two wheelers,PURE EV,460
+01-Jun-21,two wheelers,TVS,208
+01-Jun-21,two wheelers,REVOLT,59
+01-Jun-21,two wheelers,BAJAJ,176
+01-Jun-21,two wheelers,BEING,198
+01-Jun-21,two wheelers,JITENDRA,43
+01-Jun-21,two wheelers,OTHERS,567
+01-Jun-22,two wheelers,OLA ELECTRIC,5897
+01-Jun-22,two wheelers,OKINAWA,7554
+01-Jun-22,two wheelers,HERO ELECTRIC,6836
+01-Jun-22,two wheelers,AMPERE,6919
+01-Jun-22,two wheelers,TVS,1983
+01-Jun-22,two wheelers,ATHER,3829
+01-Jun-22,two wheelers,BAJAJ,1824
+01-Jun-22,two wheelers,OKAYA EV,760
+01-Jun-22,two wheelers,REVOLT,2423
+01-Jun-22,two wheelers,PURE EV,1125
+01-Jun-22,two wheelers,BEING,1005
+01-Jun-22,two wheelers,JITENDRA,568
+01-Jun-22,two wheelers,OTHERS,3658
+01-Jun-23,two wheelers,OLA ELECTRIC,17768
+01-Jun-23,two wheelers,TVS,7772
+01-Jun-23,two wheelers,ATHER,4547
+01-Jun-23,two wheelers,BAJAJ,2975
+01-Jun-23,two wheelers,AMPERE,3006
+01-Jun-23,two wheelers,OKINAWA,2588
+01-Jun-23,two wheelers,HERO ELECTRIC,1123
+01-Jun-23,two wheelers,OKAYA EV,419
+01-Jun-23,two wheelers,BGAUSS,189
+01-Jun-23,two wheelers,BATTRE ELECTRIC,82
+01-Jun-23,two wheelers,KINETIC GREEN,201
+01-Jun-23,two wheelers,REVOLT,705
+01-Jun-23,two wheelers,OTHERS,4466
+01-Jul-21,two wheelers,HERO ELECTRIC,4557
+01-Jul-21,two wheelers,OKINAWA,2633
+01-Jul-21,two wheelers,AMPERE,663
+01-Jul-21,two wheelers,ATHER,1799
+01-Jul-21,two wheelers,PURE EV,1417
+01-Jul-21,two wheelers,TVS,648
+01-Jul-21,two wheelers,REVOLT,321
+01-Jul-21,two wheelers,BAJAJ,730
+01-Jul-21,two wheelers,BEING,494
+01-Jul-21,two wheelers,JITENDRA,212
+01-Jul-21,two wheelers,OTHERS,1202
+01-Jul-22,two wheelers,OLA ELECTRIC,3864
+01-Jul-22,two wheelers,OKINAWA,8394
+01-Jul-22,two wheelers,HERO ELECTRIC,9334
+01-Jul-22,two wheelers,AMPERE,6812
+01-Jul-22,two wheelers,TVS,4348
+01-Jul-22,two wheelers,ATHER,1289
+01-Jul-22,two wheelers,BAJAJ,2482
+01-Jul-22,two wheelers,OKAYA EV,1076
+01-Jul-22,two wheelers,REVOLT,2318
+01-Jul-22,two wheelers,PURE EV,1000
+01-Jul-22,two wheelers,BEING,1245
+01-Jul-22,two wheelers,JITENDRA,880
+01-Jul-22,two wheelers,OTHERS,3562
+01-Jul-23,two wheelers,OLA ELECTRIC,19409
+01-Jul-23,two wheelers,TVS,10272
+01-Jul-23,two wheelers,ATHER,6604
+01-Jul-23,two wheelers,BAJAJ,4081
+01-Jul-23,two wheelers,AMPERE,3530
+01-Jul-23,two wheelers,OKINAWA,2238
+01-Jul-23,two wheelers,HERO ELECTRIC,770
+01-Jul-23,two wheelers,OKAYA EV,775
+01-Jul-23,two wheelers,BGAUSS,653
+01-Jul-23,two wheelers,BATTRE ELECTRIC,133
+01-Jul-23,two wheelers,KINETIC GREEN,229
+01-Jul-23,two wheelers,REVOLT,478
+01-Jul-23,two wheelers,OTHERS,5020
+01-Aug-21,two wheelers,HERO ELECTRIC,5527
+01-Aug-21,two wheelers,OKINAWA,2894
+01-Aug-21,two wheelers,AMPERE,810
+01-Aug-21,two wheelers,ATHER,1613
+01-Aug-21,two wheelers,PURE EV,1094
+01-Aug-21,two wheelers,TVS,651
+01-Aug-21,two wheelers,REVOLT,853
+01-Aug-21,two wheelers,BAJAJ,796
+01-Aug-21,two wheelers,BEING,325
+01-Aug-21,two wheelers,JITENDRA,208
+01-Aug-21,two wheelers,OTHERS,1279
+01-Aug-22,two wheelers,OLA ELECTRIC,3475
+01-Aug-22,two wheelers,OKINAWA,8756
+01-Aug-22,two wheelers,HERO ELECTRIC,9925
+01-Aug-22,two wheelers,AMPERE,6771
+01-Aug-22,two wheelers,TVS,6426
+01-Aug-22,two wheelers,ATHER,5376
+01-Aug-22,two wheelers,BAJAJ,2620
+01-Aug-22,two wheelers,OKAYA EV,905
+01-Aug-22,two wheelers,REVOLT,1662
+01-Aug-22,two wheelers,PURE EV,880
+01-Aug-22,two wheelers,BEING,1099
+01-Aug-22,two wheelers,JITENDRA,653
+01-Aug-22,two wheelers,OTHERS,3678
+01-Aug-23,two wheelers,OLA ELECTRIC,18983
+01-Aug-23,two wheelers,TVS,15296
+01-Aug-23,two wheelers,ATHER,7065
+01-Aug-23,two wheelers,BAJAJ,6508
+01-Aug-23,two wheelers,AMPERE,3654
+01-Aug-23,two wheelers,OKINAWA,1977
+01-Aug-23,two wheelers,HERO ELECTRIC,774
+01-Aug-23,two wheelers,OKAYA EV,1137
+01-Aug-23,two wheelers,BGAUSS,912
+01-Aug-23,two wheelers,BATTRE ELECTRIC,287
+01-Aug-23,two wheelers,KINETIC GREEN,380
+01-Aug-23,two wheelers,REVOLT,508
+01-Aug-23,two wheelers,OTHERS,4990
+01-Sep-21,two wheelers,HERO ELECTRIC,6727
+01-Sep-21,two wheelers,OKINAWA,3321
+01-Sep-21,two wheelers,AMPERE,807
+01-Sep-21,two wheelers,ATHER,2174
+01-Sep-21,two wheelers,PURE EV,1337
+01-Sep-21,two wheelers,TVS,688
+01-Sep-21,two wheelers,REVOLT,499
+01-Sep-21,two wheelers,BAJAJ,381
+01-Sep-21,two wheelers,BEING,337
+01-Sep-21,two wheelers,JITENDRA,134
+01-Sep-21,two wheelers,OTHERS,1627
+01-Sep-22,two wheelers,OLA ELECTRIC,8065
+01-Sep-22,two wheelers,OKINAWA,8497
+01-Sep-22,two wheelers,HERO ELECTRIC,8208
+01-Sep-22,two wheelers,AMPERE,6488
+01-Sep-22,two wheelers,TVS,4001
+01-Sep-22,two wheelers,ATHER,6280
+01-Sep-22,two wheelers,BAJAJ,3649
+01-Sep-22,two wheelers,OKAYA EV,954
+01-Sep-22,two wheelers,REVOLT,865
+01-Sep-22,two wheelers,PURE EV,790
+01-Sep-22,two wheelers,BEING,975
+01-Sep-22,two wheelers,JITENDRA,661
+01-Sep-22,two wheelers,OTHERS,3849
+01-Sep-23,two wheelers,OLA ELECTRIC,18926
+01-Sep-23,two wheelers,TVS,15425
+01-Sep-23,two wheelers,ATHER,7107
+01-Sep-23,two wheelers,BAJAJ,7019
+01-Sep-23,two wheelers,AMPERE,4148
+01-Sep-23,two wheelers,OKINAWA,1769
+01-Sep-23,two wheelers,HERO ELECTRIC,835
+01-Sep-23,two wheelers,OKAYA EV,873
+01-Sep-23,two wheelers,BGAUSS,924
+01-Sep-23,two wheelers,BATTRE ELECTRIC,255
+01-Sep-23,two wheelers,KINETIC GREEN,231
+01-Sep-23,two wheelers,REVOLT,879
+01-Sep-23,two wheelers,OTHERS,5355
+01-Oct-21,two wheelers,HERO ELECTRIC,6799
+01-Oct-21,two wheelers,OKINAWA,4166
+01-Oct-21,two wheelers,AMPERE,1083
+01-Oct-21,two wheelers,ATHER,2647
+01-Oct-21,two wheelers,PURE EV,1400
+01-Oct-21,two wheelers,TVS,486
+01-Oct-21,two wheelers,REVOLT,900
+01-Oct-21,two wheelers,BAJAJ,754
+01-Oct-21,two wheelers,BEING,469
+01-Oct-21,two wheelers,JITENDRA,283
+01-Oct-21,two wheelers,OTHERS,1826
+01-Oct-22,two wheelers,OLA ELECTRIC,15391
+01-Oct-22,two wheelers,OKINAWA,14950
+01-Oct-22,two wheelers,HERO ELECTRIC,8868
+01-Oct-22,two wheelers,AMPERE,10113
+01-Oct-22,two wheelers,TVS,5820
+01-Oct-22,two wheelers,ATHER,7356
+01-Oct-22,two wheelers,BAJAJ,3549
+01-Oct-22,two wheelers,OKAYA EV,1968
+01-Oct-22,two wheelers,REVOLT,1041
+01-Oct-22,two wheelers,PURE EV,1047
+01-Oct-22,two wheelers,BEING,1422
+01-Oct-22,two wheelers,JITENDRA,1111
+01-Oct-22,two wheelers,OTHERS,4614
+01-Oct-23,two wheelers,OLA ELECTRIC,23968
+01-Oct-23,two wheelers,TVS,16309
+01-Oct-23,two wheelers,ATHER,8375
+01-Oct-23,two wheelers,BAJAJ,8960
+01-Oct-23,two wheelers,AMPERE,4487
+01-Oct-23,two wheelers,OKINAWA,1457
+01-Oct-23,two wheelers,HERO ELECTRIC,658
+01-Oct-23,two wheelers,OKAYA EV,863
+01-Oct-23,two wheelers,BGAUSS,1157
+01-Oct-23,two wheelers,BATTRE ELECTRIC,227
+01-Oct-23,two wheelers,KINETIC GREEN,389
+01-Oct-23,two wheelers,REVOLT,681
+01-Oct-23,two wheelers,OTHERS,7092
+01-Nov-21,two wheelers,HERO ELECTRIC,7493
+01-Nov-21,two wheelers,OKINAWA,5542
+01-Nov-21,two wheelers,AMPERE,2077
+01-Nov-21,two wheelers,ATHER,2202
+01-Nov-21,two wheelers,PURE EV,1688
+01-Nov-21,two wheelers,TVS,522
+01-Nov-21,two wheelers,REVOLT,780
+01-Nov-21,two wheelers,BAJAJ,728
+01-Nov-21,two wheelers,BEING,912
+01-Nov-21,two wheelers,JITENDRA,273
+01-Nov-21,two wheelers,OTHERS,2317
+01-Nov-22,two wheelers,OLA ELECTRIC,15797
+01-Nov-22,two wheelers,OKINAWA,9068
+01-Nov-22,two wheelers,HERO ELECTRIC,9026
+01-Nov-22,two wheelers,AMPERE,12446
+01-Nov-22,two wheelers,TVS,8147
+01-Nov-22,two wheelers,ATHER,7837
+01-Nov-22,two wheelers,BAJAJ,3057
+01-Nov-22,two wheelers,OKAYA EV,1783
+01-Nov-22,two wheelers,REVOLT,524
+01-Nov-22,two wheelers,PURE EV,925
+01-Nov-22,two wheelers,BEING,1216
+01-Nov-22,two wheelers,JITENDRA,1256
+01-Nov-22,two wheelers,OTHERS,5693
+01-Nov-23,two wheelers,OLA ELECTRIC,29980
+01-Nov-23,two wheelers,TVS,18914
+01-Nov-23,two wheelers,ATHER,9220
+01-Nov-23,two wheelers,BAJAJ,11769
+01-Nov-23,two wheelers,AMPERE,4638
+01-Nov-23,two wheelers,OKINAWA,1587
+01-Nov-23,two wheelers,HERO ELECTRIC,814
+01-Nov-23,two wheelers,OKAYA EV,1281
+01-Nov-23,two wheelers,BGAUSS,1589
+01-Nov-23,two wheelers,BATTRE ELECTRIC,659
+01-Nov-23,two wheelers,KINETIC GREEN,422
+01-Nov-23,two wheelers,REVOLT,663
+01-Nov-23,two wheelers,OTHERS,9707
+01-Dec-21,two wheelers,HERO ELECTRIC,6402
+01-Dec-21,two wheelers,OKINAWA,6184
+01-Dec-21,two wheelers,AMPERE,3410
+01-Dec-21,two wheelers,ATHER,1813
+01-Dec-21,two wheelers,PURE EV,1685
+01-Dec-21,two wheelers,OLA ELECTRIC,240
+01-Dec-21,two wheelers,TVS,1119
+01-Dec-21,two wheelers,REVOLT,835
+01-Dec-21,two wheelers,BAJAJ,642
+01-Dec-21,two wheelers,BEING,1190
+01-Dec-21,two wheelers,JITENDRA,503
+01-Dec-21,two wheelers,OTHERS,2603
+01-Dec-22,two wheelers,OLA ELECTRIC,16919
+01-Dec-22,two wheelers,OKINAWA,5281
+01-Dec-22,two wheelers,HERO ELECTRIC,8100
+01-Dec-22,two wheelers,AMPERE,4592
+01-Dec-22,two wheelers,TVS,9363
+01-Dec-22,two wheelers,ATHER,7693
+01-Dec-22,two wheelers,BAJAJ,3240
+01-Dec-22,two wheelers,OKAYA EV,1445
+01-Dec-22,two wheelers,REVOLT,37
+01-Dec-22,two wheelers,PURE EV,780
+01-Dec-22,two wheelers,BEING,966
+01-Dec-22,two wheelers,JITENDRA,668
+01-Dec-22,two wheelers,OTHERS,5557
+01-Dec-23,two wheelers,OLA ELECTRIC,30588
+01-Dec-23,two wheelers,TVS,12171
+01-Dec-23,two wheelers,ATHER,6471
+01-Dec-23,two wheelers,BAJAJ,10292
+01-Dec-23,two wheelers,AMPERE,3309
+01-Dec-23,two wheelers,OKINAWA,953
+01-Dec-23,two wheelers,HERO ELECTRIC,545
+01-Dec-23,two wheelers,OKAYA EV,700
+01-Dec-23,two wheelers,BGAUSS,1200
+01-Dec-23,two wheelers,BATTRE ELECTRIC,241
+01-Dec-23,two wheelers,KINETIC GREEN,660
+01-Dec-23,two wheelers,REVOLT,673
+01-Dec-23,two wheelers,OTHERS,7691
+01-Jan-22,two wheelers,HERO ELECTRIC,8238
+01-Jan-22,two wheelers,OKINAWA,5737
+01-Jan-22,two wheelers,AMPERE,4366
+01-Jan-22,two wheelers,ATHER,1881
+01-Jan-22,two wheelers,PURE EV,1691
+01-Jan-22,two wheelers,OLA ELECTRIC,1107
+01-Jan-22,two wheelers,TVS,1155
+01-Jan-22,two wheelers,REVOLT,673
+01-Jan-22,two wheelers,BAJAJ,612
+01-Jan-22,two wheelers,BEING,1062
+01-Jan-22,two wheelers,JITENDRA,535
+01-Jan-22,two wheelers,OTHERS,3065
+01-Jan-23,two wheelers,OLA ELECTRIC,20148
+01-Jan-23,two wheelers,OKINAWA,4407
+01-Jan-23,two wheelers,HERO ELECTRIC,6399
+01-Jan-23,two wheelers,AMPERE,4456
+01-Jan-23,two wheelers,TVS,10462
+01-Jan-23,two wheelers,ATHER,9224
+01-Jan-23,two wheelers,BAJAJ,2252
+01-Jan-23,two wheelers,OKAYA EV,1265
+01-Jan-23,two wheelers,REVOLT,14
+01-Jan-23,two wheelers,PURE EV,717
+01-Jan-23,two wheelers,BEING,571
+01-Jan-23,two wheelers,JITENDRA,522
+01-Jan-23,two wheelers,OTHERS,4241
+01-Jan-24,two wheelers,OLA ELECTRIC,32275
+01-Jan-24,two wheelers,TVS,15153
+01-Jan-24,two wheelers,ATHER,9244
+01-Jan-24,two wheelers,BAJAJ,10753
+01-Jan-24,two wheelers,AMPERE,2505
+01-Jan-24,two wheelers,OKINAWA,675
+01-Jan-24,two wheelers,HERO ELECTRIC,413
+01-Jan-24,two wheelers,OKAYA EV,574
+01-Jan-24,two wheelers,BGAUSS,1469
+01-Jan-24,two wheelers,BATTRE ELECTRIC,284
+01-Jan-24,two wheelers,KINETIC GREEN,810
+01-Jan-24,two wheelers,REVOLT,524
+01-Jan-24,two wheelers,OTHERS,6664
+01-Feb-22,two wheelers,HERO ELECTRIC,7773
+01-Feb-22,two wheelers,OKINAWA,6122
+01-Feb-22,two wheelers,AMPERE,4431
+01-Feb-22,two wheelers,ATHER,2232
+01-Feb-22,two wheelers,PURE EV,1428
+01-Feb-22,two wheelers,OLA ELECTRIC,3911
+01-Feb-22,two wheelers,TVS,1560
+01-Feb-22,two wheelers,REVOLT,1128
+01-Feb-22,two wheelers,BAJAJ,1372
+01-Feb-22,two wheelers,BEING,1149
+01-Feb-22,two wheelers,JITENDRA,583
+01-Feb-22,two wheelers,OTHERS,4033
+01-Feb-23,two wheelers,OLA ELECTRIC,17762
+01-Feb-23,two wheelers,OKINAWA,3848
+01-Feb-23,two wheelers,HERO ELECTRIC,5863
+01-Feb-23,two wheelers,AMPERE,6003
+01-Feb-23,two wheelers,TVS,12671
+01-Feb-23,two wheelers,ATHER,10069
+01-Feb-23,two wheelers,BAJAJ,2537
+01-Feb-23,two wheelers,OKAYA EV,1232
+01-Feb-23,two wheelers,REVOLT,79
+01-Feb-23,two wheelers,PURE EV,488
+01-Feb-23,two wheelers,BEING,337
+01-Feb-23,two wheelers,JITENDRA,308
+01-Feb-23,two wheelers,OTHERS,4874
+01-Feb-24,two wheelers,OLA ELECTRIC,33967
+01-Feb-24,two wheelers,TVS,14431
+01-Feb-24,two wheelers,ATHER,8957
+01-Feb-24,two wheelers,BAJAJ,11603
+01-Feb-24,two wheelers,AMPERE,2577
+01-Feb-24,two wheelers,OKINAWA,652
+01-Feb-24,two wheelers,HERO ELECTRIC,323
+01-Feb-24,two wheelers,OKAYA EV,649
+01-Feb-24,two wheelers,BGAUSS,1334
+01-Feb-24,two wheelers,BATTRE ELECTRIC,219
+01-Feb-24,two wheelers,KINETIC GREEN,624
+01-Feb-24,two wheelers,REVOLT,473
+01-Feb-24,two wheelers,OTHERS,6154
+01-Mar-22,two wheelers,HERO ELECTRIC,13652
+01-Mar-22,two wheelers,OKINAWA,8586
+01-Mar-22,two wheelers,AMPERE,6666
+01-Mar-22,two wheelers,ATHER,2232
+01-Mar-22,two wheelers,PURE EV,2065
+01-Mar-22,two wheelers,OLA ELECTRIC,9143
+01-Mar-22,two wheelers,TVS,2391
+01-Mar-22,two wheelers,REVOLT,1413
+01-Mar-22,two wheelers,BAJAJ,855
+01-Mar-22,two wheelers,BEING,1013
+01-Mar-22,two wheelers,JITENDRA,1052
+01-Mar-22,two wheelers,OTHERS,5330
+01-Mar-23,two wheelers,OLA ELECTRIC,22398
+01-Mar-23,two wheelers,OKINAWA,4509
+01-Mar-23,two wheelers,HERO ELECTRIC,6661
+01-Mar-23,two wheelers,AMPERE,9736
+01-Mar-23,two wheelers,TVS,16896
+01-Mar-23,two wheelers,ATHER,12180
+01-Mar-23,two wheelers,BAJAJ,4552
+01-Mar-23,two wheelers,OKAYA EV,1765
+01-Mar-23,two wheelers,REVOLT,1140
+01-Mar-23,two wheelers,PURE EV,584
+01-Mar-23,two wheelers,BEING,446
+01-Mar-23,two wheelers,JITENDRA,350
+01-Mar-23,two wheelers,OTHERS,5089
+01-Mar-24,two wheelers,OLA ELECTRIC,44630
+01-Mar-24,two wheelers,TVS,26158
+01-Mar-24,two wheelers,ATHER,17012
+01-Mar-24,two wheelers,BAJAJ,17716
+01-Mar-24,two wheelers,AMPERE,3108
+01-Mar-24,two wheelers,OKINAWA,673
+01-Mar-24,two wheelers,HERO ELECTRIC,316
+01-Mar-24,two wheelers,OKAYA EV,1218
+01-Mar-24,two wheelers,BGAUSS,3070
+01-Mar-24,two wheelers,BATTRE ELECTRIC,625
+01-Mar-24,two wheelers,KINETIC GREEN,3915
+01-Mar-24,two wheelers,REVOLT,585
+01-Mar-24,two wheelers,OTHERS,10579
