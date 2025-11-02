@@ -60,7 +60,8 @@ The **Geographic Analysis** section illustrates a strong, continuous upward tren
 
 | View | Screenshot |
 |------|------------|
-| **Executive Overview** | [![Executive Overview](screenshots/executive_overview.png)](screenshots/executive_overview.png) |
+| **Executive Overview** | [![Executive Overview](screenshots/executive_overview.png)](https://github.com/Jainkanika09/Electronic-Vehicle-data-Dashboard/blob/main/Executive%20Overview.png) |
+
 | **Market Composition** | [![Market Composition](screenshots/market_composition.png)](screenshots/market_composition.png) |
 | **Geographic Analysis** | [![Geographic Analysis](screenshots/geographic_analysis.png)](screenshots/geographic_analysis.png) |
 | **Detailed View** | [![Detailed View](screenshots/detailed_view.png)](screenshots/detailed_view.png) |
