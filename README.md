@@ -1,6 +1,4 @@
 
-## 📄 README.md 
-
 ```markdown
 # 🛵 India Electric Vehicle (EV) Data Dashboard (Power BI)
 
@@ -59,31 +57,39 @@ The **Geographic Analysis** section illustrates a strong, continuous upward tren
 
 ***
 
-## 🖼️ Dashboard Sections (https://github.com/Jainkanika09/Electronic-Vehicle-data-Dashboard/blob/main/Executive%20Overview.png )
+## 🖼️ Dashboard Sections (Screenshots)
 
+The dashboard is organized into five main interactive tabs.
 
+### 1. About Dashboard / Overview Page
+*The landing page describing the project's objective and problem statement.*
 
-The dashboard is organized into five main interactive tabs:
+<!-- INSERT SCREENSHOT FOR 'About Dashboard' HERE -->
 
-### 1. Executive Overview
+### 2. Executive Overview
 *Provides a high-level summary of monthly sales performance and the distribution between two-wheelers and four-wheelers.*
-*(Insert Screenshot for 'Executive Overview' here)*
 
-### 2. Market Composition
+<!-- INSERT SCREENSHOT FOR 'Executive Overview' HERE -->
+
+### 3. Market Composition
 *Detailed view of the State-wise adoption patterns and a waterfall chart visualizing the market share of all major manufacturers.*
-*(Insert Screenshot for 'Market Composition' here)*
 
-### 3. Geographic Analysis
+<!-- INSERT SCREENSHOT FOR 'Market Composition' HERE -->
+
+### 4. Geographic Analysis
 *Tracks the monthly vehicles sold over time, illustrating the overall market growth and seasonality.*
-*(Insert Screenshot for 'Geographic Analysis' here)*
 
-### 4. Detailed View
+<!-- INSERT SCREENSHOT FOR 'Geographic Analysis' HERE -->
+
+### 5. Detailed View
 *A granular data table allowing users to see the year-wise and total sales breakdown for every single EV manufacturer.*
-*(Insert Screenshot for 'Detailed View' here)*
 
-### 5. Keysights
+<!-- INSERT SCREENSHOT FOR 'Detailed View' HERE -->
+
+### 6. Keysights
 *A summary of the most important findings from the analysis.*
-*(Insert Screenshot for 'Keysights' here)*
+
+<!-- INSERT SCREENSHOT FOR 'Keysights' HERE -->
 
 ***
 
@@ -97,5 +103,6 @@ The dashboard is organized into five main interactive tabs:
 ## 🧑‍💻 Prepared By
 
 **Kanika Jain**
-Connect with me on [LinkedIn](YOUR_LINKEDIN_URL_HERE) for more data analytics projects!
+Connect with me on [LinkedIn]https://www.linkedin.com/in/kanika-jain-a46816228/) for more data analytics projects!
 ```
+
