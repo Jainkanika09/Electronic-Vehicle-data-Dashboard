@@ -56,43 +56,16 @@ The top EV makers, significantly contributing to the total EV adoption, are:
 The **Geographic Analysis** section illustrates a strong, continuous upward trend in monthly EV sales, growing from ~6K units in July 2021 to a peak of **138K** units by early 2024.
 
 ***
+## 🖼️ Dashboard Screenshots
 
-## 🖼️ Dashboard Sections (Screenshots)
-
-The dashboard is organized into five main interactive tabs.
-
-
-
-### 2. Executive Overview
-*Provides a high-level summary of monthly sales performance and the distribution between two-wheelers and four-wheelers.*
-
-<!-- INSERT SCREENSHOT FOR 'https://github.com/Jainkanika09/Electronic-Vehicle-data-Dashboard/blob/main/Executive%20Overview.png' HERE -->
+| View | Screenshot |
+|------|------------|
+| **Executive Overview** | [![Executive Overview](screenshots/executive_overview.png)](screenshots/executive_overview.png) |
+| **Market Composition** | [![Market Composition](screenshots/market_composition.png)](screenshots/market_composition.png) |
+| **Geographic Analysis** | [![Geographic Analysis](screenshots/geographic_analysis.png)](screenshots/geographic_analysis.png) |
+| **Detailed View** | [![Detailed View](screenshots/detailed_view.png)](screenshots/detailed_view.png) |
 
 
-
-### 3. Market Composition
-*Detailed view of the State-wise adoption patterns and a waterfall chart visualizing the market share of all major manufacturers.*
-
-<!-- [Market Composition](https://github.com/Jainkanika09/Electronic-Vehicle-data-Dashboard/blob/main/Market%20composition.png)-->
-
-
-
-
-
-### 4. Geographic Analysis
-*Tracks the monthly vehicles sold over time, illustrating the overall market growth and seasonality.*
-
-<!-- INSERT SCREENSHOT FOR 'Geographic Analysis' HERE -->
-
-### 5. Detailed View
-*A granular data table allowing users to see the year-wise and total sales breakdown for every single EV manufacturer.*
-
-<!-- INSERT SCREENSHOT FOR 'Detailed View' HERE -->
-
-### 6. Keysights
-*A summary of the most important findings from the analysis.*
-
-<!-- INSERT SCREENSHOT FOR 'Keysights' HERE -->
 
 ***
 
