@@ -64,7 +64,8 @@ The dashboard is organized into five main interactive tabs.
 ### 1. About Dashboard / Overview Page
 *The landing page describing the project's objective and problem statement.*
 
-<!-- INSERT SCREENSHOT FOR 'About Dashboard' HERE -->
+<!--https://github.com/Jainkanika09/Electronic-Vehicle-data-Dashboard/blob/main/About%20Dashboard.png INSERT SCREENSHOT FOR 'About Dashboard' HERE -->
+
 
 ### 2. Executive Overview
 *Provides a high-level summary of monthly sales performance and the distribution between two-wheelers and four-wheelers.*
