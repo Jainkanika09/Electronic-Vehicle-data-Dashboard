@@ -59,7 +59,8 @@ The **Geographic Analysis** section illustrates a strong, continuous upward tren
 
 ***
 
-## 🖼️ Dashboard Sections (https://github.com/Jainkanika09/Electronic-Vehicle-data-Dashboard/blob/main/Executive%20Overview.png)
+## 🖼️ Dashboard Sections (https://github.com/Jainkanika09/Electronic-Vehicle-data-Dashboard/blob/main/Executive%20Overview.png )
+
 
 
 The dashboard is organized into five main interactive tabs:
