@@ -71,7 +71,8 @@ The dashboard is organized into five main interactive tabs.
 ### 2. Executive Overview
 *Provides a high-level summary of monthly sales performance and the distribution between two-wheelers and four-wheelers.*
 
-<!-- INSERT SCREENSHOT FOR 'Executive Overview' HERE -->
+<!-- INSERT SCREENSHOT FOR 'Executive Overview' HERE https://github.com/Jainkanika09/Electronic-Vehicle-data-Dashboard/blob/main/Executive%20Overview.png-->
+
 
 ### 3. Market Composition
 *Detailed view of the State-wise adoption patterns and a waterfall chart visualizing the market share of all major manufacturers.*
